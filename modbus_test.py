@@ -121,7 +121,6 @@ def main():
                 print('-' * 40)
                 byte_data = remaining_data
                 counter += 1
-            break
 
 if __name__ == "__main__":
     main()
